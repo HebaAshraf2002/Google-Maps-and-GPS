@@ -34,8 +34,8 @@ This Flutter application demonstrates how to integrate Google Maps into a Flutte
 
 1. **google_maps_flutter**
    - **Description**: A Flutter plugin for integrating Google Maps in a Flutter application.
-   - **Link**: [google_maps_flutter]
+   - **Link**: [google_maps_flutter](https://pub.dev/packages/google_maps_flutter)
 
 2. **geolocator**
    - **Description**: A Flutter plugin for accessing the device's location services.
-   - **Link**: [geolocator]
+   - **Link**: [geolocator](https://pub.dev/packages/geolocator)
